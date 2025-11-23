@@ -7,6 +7,7 @@ This document summarizes key compliance checks relevant for EU-aligned digital p
 - Data protection considerations
 - Access control requirements
 - Audit and traceability completeness
+- General documentation consistency review
 
 ## Functionality Verification
 - Core workflow execution
