@@ -1,4 +1,7 @@
 # Digital Governance Frameworks  
+### Focus
+Digital governance · EU interoperability · Validation & testing readiness · Secure workflows
+
 Documentation, validation models and workflows used in EU and UN digital transformation projects.
 
 ## About this repository
