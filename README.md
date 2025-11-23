@@ -3,7 +3,7 @@
 Digital governance · EU interoperability · Validation & testing readiness · Secure workflows
 
 ![Badge](https://img.shields.io/badge/Focus-Digital%20Governance-blue)
-![Badge](https://img.shields.io/badge/Interoperability-EU-green)
+![Badge](https://img.shields.io/badge/Interoperability-EU-green-UN-blue)
 
 
 Documentation, validation models and workflows used in EU and UN digital transformation projects.
