@@ -9,3 +9,4 @@ A simplified example of a multi-step digital workflow.
 5. Transaction or action executed  
 6. Confirmation returned  
 7. Logs stored for compliance and auditing  
+8. Optional: Cross-system verification based on institutional requirements
