@@ -1,4 +1,5 @@
 # Validation Framework Template
+_Last updated: November 2025_
 
 This document outlines a structured approach to validating multi-stakeholder digital platforms in EU and UN projects.
 
