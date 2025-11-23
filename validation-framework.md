@@ -32,6 +32,7 @@ This document outlines a structured approach to validating multi-stakeholder dig
 ### Evidence Collection
 - Screenshots, logs, notes, observations
 - Deviations and unexpected behaviours
+- 
 
 ## 4. Reporting
 - Summary of results
