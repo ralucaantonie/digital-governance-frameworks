@@ -35,4 +35,4 @@ This repository summarizes this experience in an accessible, technical format.
 If you wish to connect regarding digital systems, validation workflows, interoperability or multi-stakeholder coordination:
 
 📧 Email: ralucaantonie@gmail.com  
-🌐 LinkedIn: (adaugă link-ul tău)  
+🌐 LinkedIn: www.linkedin.com/in/raluca-antonie  
