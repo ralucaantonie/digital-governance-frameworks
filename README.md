@@ -6,6 +6,7 @@ This repository contains structured materials that reflect my work in **multi-st
 
 While not focused on software development, the repository includes practical frameworks relevant to the architecture, validation and coordination of complex digital systems.
 
+
 ## Focus areas
 - Digital governance models and structured implementation steps  
 - System validation frameworks and compliance checks  
