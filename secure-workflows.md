@@ -26,3 +26,6 @@ High-level conceptual models describing common components in secure digital syst
 - Logging
 - Error capture
 - Compliance records
+## Additional notes
+
+To be expanded based on project requirements and system context.
